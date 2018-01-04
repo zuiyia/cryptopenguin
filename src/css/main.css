@@ -1,0 +1,109 @@
+.qq {
+    width: 180px;
+    height: 256px;
+}
+.background_img_1 {
+    background-image: url('../assets/mon003100.png');
+}
+.background_img_2 {
+    background-image: url('../assets/mon003110.png');
+}
+.background_img_3 {
+    background-image: url('../assets/mon003130.png');
+}
+.background_img_4 {
+    background-image: url('../assets/mon003140.png');
+}
+.background_img_5 {
+    background-image: url('../assets/mon003150.png');
+}
+.background_img_6 {
+    background-image: url('../assets/mon003200.png');
+}
+.background_img_7 {
+    background-image: url('../assets/mon003210.png');
+}
+.background_img_8 {
+    background-image: url('../assets/mon003220.png');
+}
+.background_img_9 {
+    background-image: url('../assets/mon003300.png');
+}
+.background_img_10 {
+    background-image: url('../assets/mon003310.png');
+}
+.background_img_11 {
+    background-image: url('../assets/mon003320.png');
+}
+.body {
+    position:relative;
+    z-index:10;
+    float: left;
+    display: block;
+    width: 180px;
+    height: 256px;
+    background-repeat: no-repeat;
+}
+.left-eye {
+    position:relative;
+    z-index:100;
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-position: -175px -130px;
+    margin: 85px 0 0 -165px;
+}
+.right-eye {
+    position:relative;
+    z-index:100;
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-position: -210px -130px;
+    margin: 85px 0 0 -94px;
+}
+.nose {
+    position:relative;
+    z-index:100;
+    float: left;
+    width: 82px;
+    height: 25px;
+    background-position: -155px -175px;
+    margin: 112px 0 0 -173px;
+}
+.mouse_out {
+    position:relative;
+    z-index:101;
+    float: left;
+    width: 82px;
+    height: 25px;
+    background-position: -155px -225px;
+    margin: 130px 0 0 -165px;
+}
+.mouse_in {
+    position:relative;
+    z-index:100;
+    float: left;
+    width: 80px;
+    height: 25px;
+    background-position: -155px -200px;
+    margin: 131px 0 0 -168px;
+}
+.left-leg {
+    position:relative;
+    z-index:1;
+    float: left;
+    width: 38px;
+    height: 65px;
+    background-position: -175px 5px;
+    margin: 150px 0 0 -185px;
+}
+.right-leg {
+    position:relative;
+    z-index:1;
+    float: left;
+    width: 45px;
+    height: 80px;
+    background-position: -210px 5px;
+    margin: 145px 0 0 -60px;
+}
