@@ -3,37 +3,37 @@
     height: 256px;
 }
 .background_img_1 {
-    background-image: url('../assets/mon003100.png');
+    background-image: url('../images/mon003100.png');
 }
 .background_img_2 {
-    background-image: url('../assets/mon003110.png');
+    background-image: url('../images/mon003110.png');
 }
 .background_img_3 {
-    background-image: url('../assets/mon003130.png');
+    background-image: url('../images/mon003130.png');
 }
 .background_img_4 {
-    background-image: url('../assets/mon003140.png');
+    background-image: url('../images/mon003140.png');
 }
 .background_img_5 {
-    background-image: url('../assets/mon003150.png');
+    background-image: url('../images/mon003150.png');
 }
 .background_img_6 {
-    background-image: url('../assets/mon003200.png');
+    background-image: url('../images/mon003200.png');
 }
 .background_img_7 {
-    background-image: url('../assets/mon003210.png');
+    background-image: url('../images/mon003210.png');
 }
 .background_img_8 {
-    background-image: url('../assets/mon003220.png');
+    background-image: url('../images/mon003220.png');
 }
 .background_img_9 {
-    background-image: url('../assets/mon003300.png');
+    background-image: url('../images/mon003300.png');
 }
 .background_img_10 {
-    background-image: url('../assets/mon003310.png');
+    background-image: url('../images/mon003310.png');
 }
 .background_img_11 {
-    background-image: url('../assets/mon003320.png');
+    background-image: url('../images/mon003320.png');
 }
 .body {
     position:relative;
